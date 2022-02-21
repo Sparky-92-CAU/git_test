@@ -1,0 +1,28 @@
+[33mcommit b67aea866e250a8c610eca9dcfda2b4120ab4dc7[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Sparky-92-CAU <urbonc@gmail.com>
+Date:   Mon Feb 21 11:22:43 2022 -0500
+
+    Git Commit Message Template Test
+    
+    Multi-line description of commit,
+    feel free to be detailed.
+    
+    [Ticket: X]
+
+[33mcommit a25a70df041ef8a1192d2b174436c3f324e73d8a[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Sparky-92-CAU <urbonc@gmail.com>
+Date:   Sun Feb 20 15:56:48 2022 -0500
+
+    Edit README.md and hello_world.txt
+
+[33mcommit a7c9730d91694461a82060515bc78a682f5fa88d[m
+Author: Sparky-92-CAU <urbonc@gmail.com>
+Date:   Sun Feb 20 15:49:41 2022 -0500
+
+    Add hello_world.txt
+
+[33mcommit dbfebaf2ff71f65da985d61da3a636de75862469[m
+Author: Sparky-92-CAU <43768986+Sparky-92-CAU@users.noreply.github.com>
+Date:   Sun Feb 20 15:43:23 2022 -0500
+
+    Initial commit
